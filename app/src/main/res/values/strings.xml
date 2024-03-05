@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">ARSENAL</string>
+    <string name="app_title">STARTING XI</string>
+
+    <string-array name="player_name">
+        <item>David Raya</item>
+        <item>William Saliba</item>
+        <item>Ben White</item>
+        <item>Gabriel Magalhães</item>
+        <item>Jakub Kiwior</item>
+        <item>Declan Rice</item>
+        <item>Martin Odegaard</item>
+        <item>Kai Havertz</item>
+        <item>Bukayo Saka</item>
+        <item>Gabriel Martinelli</item>
+        <item>Gabriel Jesus</item>
+    </string-array>
+
+    <string-array name="player_short_name">
+        <item>Raya</item>
+        <item>Saliba</item>
+        <item>White</item>
+        <item>Gabriel</item>
+        <item>Kiwior</item>
+        <item>Rice</item>
+        <item>Odegaard</item>
+        <item>Havertz</item>
+        <item>Saka</item>
+        <item>Martinelli</item>
+        <item>Jesus</item>
+    </string-array>
+
+    <string-array name="player_position">
+        <item>Goalkeeper</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+    </string-array>
+
+    <integer-array name="player_number">
+        <item>22</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>15</item>
+        <item>41</item>
+        <item>8</item>
+        <item>29</item>
+        <item>7</item>
+        <item>11</item>
+        <item>9</item>
+    </integer-array>
+
+    <string-array name="player_nationality">
+        <item>Spain</item>
+        <item>France</item>
+        <item>England</item>
+        <item>Brazil</item>
+        <item>Poland</item>
+        <item>Rice</item>
+        <item>Norway</item>
+        <item>Germany</item>
+        <item>England</item>
+        <item>Brazil</item>
+        <item>Brazil</item>
+    </string-array>
+
+    <string-array name="player_bio">
+        <item>David Raya Martín is a Spanish professional footballer who plays as a goalkeeper for Premier League club Arsenal, on loan from Brentford, and the Spain national team. Raya began his senior career in England with Blackburn Rovers.</item>
+        <item>William Alain André Gabriel Saliba is a French professional footballer who plays as a centre-back for Premier League club Arsenal and the France national team. He is regarded as one of the best centre-backs in the world.</item>
+        <item>Benjamin William White is an English professional footballer who plays as a defender for Premier League club Arsenal and the England national team. Mainly a right-back, he can also play as a center-back. White began his senior club career at age 18 in 2016 with Brighton.</item>
+        <item>Gabriel dos Santos Magalhães, also simply known as Gabriel, is a Brazilian professional footballer who plays as centre-back for Premier League club Arsenal and the Brazil national team.</item>
+        <item>Jakub Piotr Kiwior is a Polish professional footballer who plays as a centre-back or a left-back for Premier League club Arsenal and the Poland national team. Kiwior is a product of the R.S.C. Anderlecht academy. After being unable to break into the first team, he joined FK Železiarne Podbrezová.</item>
+        <item>Declan Rice is an English professional footballer who plays as a defensive midfielder for Premier League club Arsenal and the England national team. He is regarded as one of the best defensive midfielders in the world.</item>
+        <item>Martin Ødegaard is a Norwegian professional footballer who plays as a midfielder for and captains both Premier League club Arsenal and the Norway national team. Considered one of the best midfielders in the world, he is known for his technique, dribbling ability, vision and range of passing.</item>
+        <item>Kai Lukas Havertz is a German professional footballer who plays as an attacking midfielder or forward for Premier League club Arsenal and the Germany national team. Having graduated from Bayer Leverkusen youth academy in 2016, Havertz made his senior debut with the club in the same year.</item>
+        <item>Bukayo Ayoyinka Temidayo Saka is an English professional footballer who plays as a right winger for Premier League club Arsenal and the England national team. He is regarded as one of the best wingers in the world.</item>
+        <item>Gabriel Teodoro Martinelli Silva, known as Gabriel Martinelli, is a Brazilian professional footballer who plays as a left winger or forward for Premier League club Arsenal and the Brazil national team. He is known for his agile movement, acceleration and speed.</item>
+        <item>Gabriel Fernando de Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Arsenal and the Brazil national team. Jesus is renowned for his pace, technical skills, dribbling ability, creativity, finishing, movement, and work ethic.</item>
+    </string-array>
+
+    <string-array name="player_photo">
+        <item>@drawable/player_raya</item>
+        <item>@drawable/player_saliba</item>
+        <item>@drawable/player_white</item>
+        <item>@drawable/player_gabriel</item>
+        <item>@drawable/player_kiwior</item>
+        <item>@drawable/player_rice</item>
+        <item>@drawable/player_odegaard</item>
+        <item>@drawable/player_havertz</item>
+        <item>@drawable/player_saka</item>
+        <item>@drawable/player_martinelli</item>
+        <item>@drawable/player_jesus</item>
+    </string-array>
+
+    <string name="user_profile">Profile</string>
+    <string name="user_name">Farhan Novan</string>
+    <string name="user_email">farhannovan@gmail.com</string>
+</resources>
